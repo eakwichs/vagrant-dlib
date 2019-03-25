@@ -22,7 +22,7 @@
     > Python 3.6.7
     
 **Check pip version**
-- `pip --version`
+- `pip2 --version`
     > pip 19.0.3 from /usr/local/lib/python2.7/dist-packages/pip (python 2.7)
 
 - `pip3 --version`
